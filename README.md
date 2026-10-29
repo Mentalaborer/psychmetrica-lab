@@ -57,11 +57,9 @@ This repository emphasizes:
 4. Separation of exploratory demonstrations from empirically validated findings.
 5. Responsible use of synthetic and publicly available research materials.
 
-## About
+## Public research, separate from the product
 
-Psychmetrica Lab is the public research initiative associated with Psychmetrica.ai, focused on advancing measurement thinking in AI evaluation.
-
-Research published here is independent of proprietary product implementations.
+Psychmetrica Lab is a public research initiative associated with Psychmetrica.ai, focused on advancing measurement thinking in AI evaluation. It is separate from Psychmetrica.ai product development: this repository does not contain commercial product code, proprietary scoring algorithms, or private measurement infrastructure. Research published here is intended to be inspectable, discussable, and reproducible as public work.
 
 ---
 
