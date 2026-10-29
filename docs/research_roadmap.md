@@ -4,8 +4,8 @@ This roadmap distinguishes exploratory conceptual work and synthetic demonstrati
 
 | Research item | Status | Type |
 | --- | --- | --- |
-| Score → Evidence → Claim conceptual framework | Working draft | Conceptual work |
-| Claim–evidence matrix | Initial illustrative example | Conceptual work |
+| Score → Evidence → Claim conceptual framework | Drafted conceptual note | Conceptual work |
+| Claim–evidence matrix | Drafted illustrative note | Conceptual work |
 | Synthetic demonstration: same score, different evidence | Planned | Synthetic demonstration |
 | Agreement Isn't Validity | Planned | Conceptual work, with a possible synthetic demonstration |
 | Measurement reliability and agent evaluation studies | Exploratory | Future empirical research |

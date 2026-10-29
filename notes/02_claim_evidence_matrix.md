@@ -4,9 +4,11 @@
 
 ## Purpose
 
-Explore whether explicitly mapping an **intended claim** to **required and available evidence** clarifies the distinction between an observed AI evaluation result and the conclusion that result can justify.
+Explore whether explicitly mapping an **intended claim** to **required and available evidence** clarifies the distinction between an observed AI evaluation result and the conclusion that result can justify. This proposed application to AI evaluation draws on established validity theory concerning evidence for score interpretations and intended uses (AERA, APA, & NCME, 2014; Kane, 2013; Messick, 1989).
 
 The matrix below is a **hypothetical demonstration**, not the result of an empirical study or a validated assessment framework.
+
+It applies the distinction introduced in [Research Note 01: Score → Evidence → Claim](01_score_evidence_claim.md).
 
 ## Research question
 
@@ -32,13 +34,13 @@ Can a structured claim–evidence matrix help evaluators identify when evaluatio
 | **Generalizability** | Evidence across relevant situations, users, and system configurations | One set of scenarios and one tested configuration | **Limited basis for generalization** |
 | **Statistical uncertainty** | Estimates reflecting sampling design, scenario dependence, and relevant sources of error | Aggregate pass rate only | **Unknown** |
 
-*“Unknown” denotes insufficient information; “gap” denotes missing evidence needed for the intended claim. Neither label proves the system is unsafe.*
+*“Unknown” denotes insufficient information; “gap” denotes missing evidence needed for the intended claim. A documented coverage concern is distinct from missing evidence. Neither label proves the system is unsafe.*
 
 ## What is warranted?
 
 **Narrow descriptive statement:** The assistant received passing ratings on 190 of 200 administered scenarios under the specified evaluation and scoring conditions, assuming the results were recorded and aggregated correctly.
 
-**Broader production-safety claim:** **Not established by the evidence described here.** The claim may or may not ultimately be supported; this exercise identifies information that would be needed to assess it.
+**Broader production-safety claim:** **Not established by the evidence described here.** The claim may or may not ultimately be supported; this exercise identifies information that would be needed to assess it. This distinction between an observed score and the claims made from it is consistent with validity theory focused on interpretations and intended uses (AERA et al., 2014; Kane, 2013).
 
 The central insight is not that a **95%** pass rate is inherently misleading. It is that **the same observed score may justify different inferences depending on the target claim and supporting evidence**.
 
@@ -70,8 +72,12 @@ Possible subsequent empirical study: compare independent reviewers' claim assess
 
 ## Scope and limitations
 
-This matrix is an illustrative reasoning aid, **not** a validated metric, pass/fail certification, deployment authorization, or universal set of validity requirements. Appropriate evidence depends on the intended claim and use.
+This matrix is an illustrative reasoning aid, **not** a validated metric, pass/fail certification, deployment authorization, or universal set of validity requirements. It is a proposed application of established validity theory to AI evaluation. Appropriate evidence depends on the intended claim and use.
 
 ## References
 
-*To be added after source verification.*
+American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association. https://ncme.org/resources/books/testing-standards/
+
+Kane, M. T. (2013). Validating the interpretations and uses of test scores. *Journal of Educational Measurement, 50*(1), 1–73. https://doi.org/10.1111/jedm.12000
+
+Messick, S. (1989). Validity. In R. L. Linn (Ed.), *Educational measurement* (3rd ed., pp. 13–103). American Council on Education/Macmillan Publishing Company. https://www.ets.org/research/policy_research_reports/publications/chapter/1989/hwrq.html

@@ -10,7 +10,7 @@ Under what conditions does an AI evaluation result justify a particular claim ab
 
 An AI evaluation score is an observed result, not a self-validating conclusion. Whether that result supports a broader claim depends on the quality, relevance, and sufficiency of the evidence supporting its interpretation and intended use.
 
-This is a question of **measurement validity**. In established measurement theory, validity concerns the evidence and reasoning supporting particular interpretations and uses of scores, rather than being an intrinsic property of a number.
+This is a question of **measurement validity**. In established measurement theory, validity concerns the evidence and reasoning supporting particular interpretations and uses of scores, rather than being an intrinsic property of a number (American Educational Research Association [AERA], American Psychological Association [APA], & National Council on Measurement in Education [NCME], 2014; Kane, 2013; Messick, 1989).
 
 ## Score: what was observed?
 
@@ -27,11 +27,11 @@ Evidence relevant to the intended interpretation and use, potentially including:
 - **Generalizability:** What can be inferred beyond the administered scenarios, users, and configurations?
 - **Uncertainty:** What limitations arise from sampling, measurement error, scenario dependence, or other sources?
 
-These forms of evidence are not interchangeable. In particular, agreement or repeatability alone does not establish validity.
+These forms of evidence are not interchangeable. In particular, agreement or repeatability alone does not establish validity; evidence must be considered in relation to the interpretation and use at issue (AERA et al., 2014; Kane, 2013).
 
 ## Claim: what can reasonably be concluded?
 
-A statement about a model or system, such as its reliability, capability, or safety for a specified use. The strength and scope of the claim should be proportionate to the available evidence.
+A statement about a model or system, such as its reliability, capability, or safety for a specified use. The strength and scope of the claim should be proportionate to the available evidence and intended use (Kane, 2013; Messick, 1989).
 
 ## Design backward: Intended Claim → Required Evidence → Evaluation Design
 
@@ -45,7 +45,7 @@ These are complementary ways to organize reasoning, **not** a new theory of vali
 
 ## Why reliability is not equivalent to validity
 
-Reliability concerns the consistency or dependability of scores under specified conditions. It can be important evidence, but a reliable score can still reflect an incomplete construct, unrepresentative scenarios, or a scoring rule that does not capture the target behavior. Validity concerns the overall evidence and reasoning for an interpretation and use; it is not established by reliability alone.
+Reliability concerns the consistency or dependability of scores under specified conditions. It can be important evidence, but a reliable score can still reflect an incomplete construct, unrepresentative scenarios, or a scoring rule that does not capture the target behavior. Validity concerns the overall evidence and reasoning for an interpretation and use; it is not established by reliability alone (AERA et al., 2014; Kane, 2013).
 
 ## Implications for AI evaluation
 
@@ -66,14 +66,15 @@ See [Research Note 02: Claim–Evidence Matrix](02_claim_evidence_matrix.md) for
 
 ## Limitations and next steps
 
-This is a **conceptual working note**, not a validated instrument or evidence of improved evaluator decision-making. The dimensions listed above are prompts for argument-based examination, not a universal checklist or additive validity score. A measurement conclusion should also be distinguished from an operational deployment decision, which depends on risk tolerance and safeguards.
+This is a **conceptual working note**, not a validated instrument or evidence of improved evaluator decision-making. The dimensions listed above are prompts for argument-based examination, not a universal checklist or additive validity score. They are a proposed application of established validity theory to AI evaluation, not a new validity theory. A measurement conclusion should also be distinguished from an operational deployment decision, which depends on risk tolerance and safeguards.
 
-- Add and verify foundational references in measurement validity and AI evaluation.
 - Construct three synthetic evaluation profiles with identical aggregate scores but differing evidence characteristics.
 - Develop a reproducible demonstration, followed by a separate empirical study if warranted.
 
 ## References
 
-TODO: Add verified foundational sources on measurement validity theory.
+American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. American Educational Research Association. https://ncme.org/resources/books/testing-standards/
 
-TODO: Add verified sources on AI evaluation methodology only after source checking.
+Kane, M. T. (2013). Validating the interpretations and uses of test scores. *Journal of Educational Measurement, 50*(1), 1–73. https://doi.org/10.1111/jedm.12000
+
+Messick, S. (1989). Validity. In R. L. Linn (Ed.), *Educational measurement* (3rd ed., pp. 13–103). American Council on Education/Macmillan Publishing Company. https://www.ets.org/research/policy_research_reports/publications/chapter/1989/hwrq.html

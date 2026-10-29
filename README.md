@@ -24,9 +24,12 @@ Our focus is not only on how AI systems perform, but also on the quality of the 
 
 ## Current research
 
-### Score → Evidence → Claim
+The current conceptual notes are exploratory and have not been empirically validated:
 
-Our first research direction examines the relationship between observed evaluation results, supporting validity evidence, and the conclusions drawn about AI systems.
+- [Score → Evidence → Claim: What Justifies Conclusions from AI Evaluations?](notes/01_score_evidence_claim.md)
+- [Claim–Evidence Matrix](notes/02_claim_evidence_matrix.md)
+
+Together, these notes examine the relationship between observed evaluation results, supporting validity evidence, and the conclusions drawn about AI systems.
 
 We explore two complementary perspectives:
 
