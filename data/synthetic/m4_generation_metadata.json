@@ -1,0 +1,71 @@
+{
+  "synthetic": true,
+  "random_seed": 20261109,
+  "generator": "experiments/01_same_score_different_evidence/generate_data.py",
+  "python_version": "3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "profile_targets": {
+    "A": {
+      "counts": {
+        "D1": 160,
+        "D2": 20,
+        "M1": 10,
+        "M2": 10,
+        "E1": 0,
+        "E2": 0
+      },
+      "families": {
+        "D1": 4,
+        "D2": 2,
+        "M1": 2,
+        "M2": 2,
+        "E1": 0,
+        "E2": 0
+      },
+      "failures": {
+        "D1": 8,
+        "D2": 1,
+        "M1": 1,
+        "M2": 0,
+        "E1": 0,
+        "E2": 0
+      }
+    },
+    "B": {
+      "counts": {
+        "D1": 34,
+        "D2": 34,
+        "M1": 33,
+        "M2": 33,
+        "E1": 33,
+        "E2": 33
+      },
+      "families": {
+        "D1": 8,
+        "D2": 8,
+        "M1": 8,
+        "M2": 8,
+        "E1": 8,
+        "E2": 8
+      },
+      "failures": {
+        "D1": 2,
+        "D2": 2,
+        "M1": 2,
+        "M2": 2,
+        "E1": 1,
+        "E2": 1
+      }
+    }
+  },
+  "failure_assignment_rule": "Within each indicator, assign failures round-robin across sorted family identifiers, then sorted scenario identifiers.",
+  "scoring_check_subset": "Profile C only: all 10 primary failures plus fixed-seed sampled primary passes to reach 10 scenarios per indicator; output is sorted by scenario identifier.",
+  "controlled_disagreement_rules": {
+    "repeat_llm": "Invert the primary label at sorted scoring-check positions 7 and 29.",
+    "human_reference_simulated": "Invert the primary label at sorted scoring-check positions 4, 18, and 41."
+  },
+  "dependency_versions": {
+    "python": "3.12.10",
+    "generation_dependencies": "Python standard library only"
+  }
+}

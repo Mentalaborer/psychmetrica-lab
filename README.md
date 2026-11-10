@@ -31,6 +31,8 @@ The current conceptual notes are exploratory and have not been empirically valid
 
 Together, these notes examine the relationship between observed evaluation results, supporting validity evidence, and the conclusions drawn about AI systems.
 
+The first synthetic methodological demonstration is [Experiment 01: Same Score, Different Evidence](experiments/01_same_score_different_evidence/README.md). Its scenarios, responses, and judgments are synthetic and do not support claims about an actual AI system.
+
 We explore two complementary perspectives:
 
 **Design backward:** Intended Claim → Required Evidence → Evaluation Design

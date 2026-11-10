@@ -46,9 +46,9 @@ The central insight is not that a **95%** pass rate is inherently misleading. It
 
 ## Two working hypotheses
 
-**H1 — Measurement hypothesis (untested):** A structured claim–evidence matrix may help evaluators distinguish supported conclusions from broader claims requiring additional evidence.
+**H1: Measurement hypothesis (untested):** A structured claim–evidence matrix may help evaluators distinguish supported conclusions from broader claims requiring additional evidence.
 
-**H2 — Human–AI collaboration hypothesis (untested):** A workflow in which a user defines an intended claim and an AI system proposes evidence requirements may make validity reasoning more transparent and actionable while leaving interpretation and decision authority with users.
+**H2: Human–AI collaboration hypothesis (untested):** A workflow in which a user defines an intended claim and an AI system proposes evidence requirements may make validity reasoning more transparent and actionable while leaving interpretation and decision authority with users.
 
 **Neither hypothesis has yet been empirically tested.**
 

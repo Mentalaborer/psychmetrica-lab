@@ -1,3 +1,5 @@
 # Experiments
 
-This directory will contain research questions, experimental protocols, and reproducible analyses for public Psychmetrica Lab research. No experiments are included yet.
+This directory contains research questions, experimental protocols, and reproducible analyses for public Psychmetrica Lab research.
+
+- [Experiment 01: Same Score, Different Evidence](01_same_score_different_evidence/README.md): a synthetic methodological demonstration of identical scores with different supporting evidence.
