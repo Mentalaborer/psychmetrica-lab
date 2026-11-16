@@ -64,7 +64,19 @@ This repository emphasizes:
 
 ## Public research, separate from the product
 
-Psychmetrica Lab is a public research initiative associated with Psychmetrica.ai, focused on advancing measurement thinking in AI evaluation. It is separate from Psychmetrica.ai product development: this repository does not contain commercial product code, proprietary scoring algorithms, or private measurement infrastructure. Research published here is intended to be inspectable, discussable, and reproducible as public work.
+Psychmetrica Lab is a public research initiative associated with **Psychmetrica.ai**, focused on advancing measurement science in AI evaluation.
+
+This repository is maintained separately from Psychmetrica.ai's commercial product development. It does not contain commercial product code, proprietary scoring implementations, or private measurement infrastructure.
+
+Research published here is intended to be **inspectable, discussable, and reproducible**, supporting transparency, scientific exchange, and methodological rigor. Publication of this research does not grant rights to Psychmetrica's proprietary commercial technology.
+
+## License
+
+Unless otherwise indicated, original research documentation and explanatory materials in this repository are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE.md).
+
+Software code and datasets are not covered by this license unless explicitly stated. Third-party materials remain subject to their respective licenses.
+
+The Psychmetrica name and branding are not licensed for reuse.
 
 ---
 
